@@ -17,4 +17,4 @@ More projects coming soon!
 📍 Esposende, Portugal  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabiquintao)  
 💻 [GitHub](https://github.com/gabiquintao)  
-✉️ gabriel.quintao@ (add your email)
+✉️ gabriel.quintao@icloud.com
