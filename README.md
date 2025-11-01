@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gabriel Quintão
+# 👋 Hi there, I'm Gabriel Araújo
 
 🎓 I'm a **3rd-year Computer Systems Engineering student** at the **Polytechnic Institute of Cávado and Ave (IPCA)**, in Portugal.  
 💻 Passionate about **software and web development**, with a growing interest in **systems, databases, and automation**.  
