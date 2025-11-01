@@ -6,7 +6,9 @@
 
 ## 🛠️ Tech Stack
 **Languages:** C, C#, Python, JavaScript, HTML, CSS, SQL
+
 **Frameworks & Libraries:** React
+
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, MySQL
 
 ## 📂 Projects
