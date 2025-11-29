@@ -12,7 +12,7 @@
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, MySQL
 
 ## 📂 Projects
-Check out some of my repositories below — they include academic and personal projects developed during my degree.  
+Check out some of my repositories below: they include academic and personal projects developed during my degree.  
 More projects coming soon!
 
 ## 📫 Contact
