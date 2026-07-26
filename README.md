@@ -17,6 +17,7 @@
 Check out some of my repositories below! they include academic, personal, and projects developed during my degree.
 
 📫 Contact
+
 📍 Esposende, Portugal  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielqaraujo)  
 💻 [GitHub](https://github.com/gabiquintao)
