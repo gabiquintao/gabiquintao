@@ -6,7 +6,7 @@
 
 🚀 Currently looking for new opportunities in backend development, with a strong interest in AI-driven systems.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages:** C#, JavaScript, SQL, C
 
@@ -18,11 +18,11 @@
 
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Playwright
 
-📂 Projects
+### 📂 Projects
 
 Check out some of my repositories below! They include academic, personal, and projects developed during my degree.
 
-📫 Contact
+### 📫 Contact
 
 📍 Esposende, Portugal
 
