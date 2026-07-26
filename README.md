@@ -7,17 +7,25 @@
 🚀 Currently looking for new opportunities in backend development, with a strong interest in AI-driven systems.
 
 🛠️ Tech Stack
-**Languages:** C#, JavaScript, SQL, C  
-**Frameworks & Libraries:** ASP.NET Core, React, Tailwind CSS  
-**AI:** LLM Agents, Semantic Kernel, RAG  
-**Cloud & Databases:** Azure Durable Functions, Cosmos DB Vector Search, PostgreSQL, MySQL  
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Playwright  
+
+**Languages:** C#, JavaScript, SQL, C
+
+**Frameworks & Libraries:** ASP.NET Core, React, Tailwind CSS
+
+**AI:** LLM Agents, Semantic Kernel, RAG
+
+**Cloud & Databases:** Azure Durable Functions, Cosmos DB Vector Search, PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Playwright
 
 📂 Projects
-Check out some of my repositories below! they include academic, personal, and projects developed during my degree.
+
+Check out some of my repositories below! They include academic, personal, and projects developed during my degree.
 
 📫 Contact
 
-📍 Esposende, Portugal  
-🔗 [LinkedIn](https://www.linkedin.com/in/gabrielqaraujo)  
+📍 Esposende, Portugal
+
+🔗 [LinkedIn](https://www.linkedin.com/in/gabrielqaraujo)
+
 💻 [GitHub](https://github.com/gabiquintao)
