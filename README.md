@@ -1,6 +1,6 @@
 👋 Hi there, I'm Gabriel Araújo
 
-🎓 Computer Systems Engineering graduate from the Polytechnic University Institute of Cávado and Ave (UPCA), Portugal.
+🎓 Computer Systems Engineering graduate from the Polytechnic University of Cávado and Ave (UPCA), Portugal.
 
 💻 Software Engineer with hands-on experience in backend development, distributed systems, and AI-powered applications, recently completed an internship at agap2IT working on LLM-based execution pipelines, RAG, and Azure Durable Functions.
 
